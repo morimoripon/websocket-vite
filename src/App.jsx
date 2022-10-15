@@ -4,7 +4,7 @@ import './App.css'
 
 
 // 設定
-const URL = 'wss://bf67-113-42-16-83.jp.ngrok.io'
+const URL = 'wss://3269-113-42-16-83.jp.ngrok.io'
 const PROTOCOL = 'ws-sample'
 
 // WebSocket 通信を開始する
